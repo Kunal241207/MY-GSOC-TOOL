@@ -47,8 +47,8 @@
     "workspaceUrl": "https://owasp.slack.com/ssb/redirect",
     "channels": [
       "general",
-      "# owasp-community",
-      "# project-blt"
+      "owasp-community",
+      "project-blt"
     ]
   }
 }
